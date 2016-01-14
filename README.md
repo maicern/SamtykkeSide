@@ -1,0 +1,2 @@
+# SamtykkeSide
+Samtykkeside
